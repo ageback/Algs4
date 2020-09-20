@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d5a5890a-4f6c-43ea-a6b6-e348f1ab363d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hlIbOuJzxkL3c4oKhw9PJcORn1" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="autoscrollFromSource" value="true" />
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showModules" value="false" />
+    <option name="sortByType" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\git\Algs4\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DoublingTest">
+    <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="DoublingTest" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="DoublingTest" />
+      <module name="Algs4" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="edu.princeton.algs4.Main" />
+      <module name="Algs4" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Stopwatch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="Stopwatch" />
+      <module name="Algs4" />
+      <option name="PROGRAM_PARAMETERS" value="1000" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edu.princeton.algs4.BinarySearch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="edu.princeton.algs4.BinarySearch" />
+      <module name="Algs4" />
+      <option name="PROGRAM_PARAMETERS" value="tinyT.txt &lt; tinyW.txt" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="257" y="192" key="#Project_Structure" timestamp="1600580498884">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="257" y="192" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1600580498884" />
+    <state x="451" y="358" key="FileChooserDialogImpl" timestamp="1600580467635">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="451" y="358" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1600580467635" />
+    <state width="1904" height="149" key="GridCell.Tab.0.bottom" timestamp="1600602531847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
+    <state width="1904" height="149" key="GridCell.Tab.0.center" timestamp="1600602531847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="149" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
+    <state width="1904" height="149" key="GridCell.Tab.0.left" timestamp="1600602531847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="149" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
+    <state width="1904" height="149" key="GridCell.Tab.0.right" timestamp="1600602531847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1904" height="149" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1600581712951">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1600581712951" />
+  </component>
+</project>
