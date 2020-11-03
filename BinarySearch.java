@@ -4,7 +4,7 @@ import edu.princeton.cs.algs4.StdOut;
 
 import java.util.Arrays;
 
-public class BinarySearch {
+public class    BinarySearch {
 
     public static int rank(int key, int[] a) {
         int lo = 0;
