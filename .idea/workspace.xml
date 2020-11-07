@@ -34,17 +34,27 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\git\Algs4\src" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.DoublingTest">
+  <component name="RunManager" selected="Application.BinarySearch">
     <configuration name="&lt;template&gt;" type="TestNG" default="true" selected="false">
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+    </configuration>
+    <configuration name="BinarySearch" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="Algs4" />
+      <option name="PROGRAM_PARAMETERS" value="123123" />
+      <method v="2" />
     </configuration>
     <configuration name="DoublingTest" type="Application" factoryName="Application">
       <option name="MAIN_CLASS_NAME" value="DoublingTest" />
@@ -100,25 +110,30 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="451" y="358" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604404228582" />
-    <state width="1904" height="149" key="GridCell.Tab.0.bottom" timestamp="1600602531847">
+    <state width="1920" height="292" key="GridCell.Tab.0.bottom" timestamp="1604405237689">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1904" height="149" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
-    <state width="1904" height="149" key="GridCell.Tab.0.center" timestamp="1600602531847">
+    <state width="1920" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604405237689" />
+    <state width="1920" height="292" key="GridCell.Tab.0.center" timestamp="1604405237682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1904" height="149" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
-    <state width="1904" height="149" key="GridCell.Tab.0.left" timestamp="1600602531847">
+    <state width="1920" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604405237682" />
+    <state width="1920" height="292" key="GridCell.Tab.0.left" timestamp="1604405237678">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1904" height="149" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
-    <state width="1904" height="149" key="GridCell.Tab.0.right" timestamp="1600602531847">
+    <state width="1920" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604405237678" />
+    <state width="1920" height="292" key="GridCell.Tab.0.right" timestamp="1604405237685">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1904" height="149" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1600602531847" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1604404235693">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1920" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604405237685" />
+    <state x="515" y="174" width="1037" height="737" key="SettingsEditor" timestamp="1604712879078">
+      <screen x="72" y="27" width="1846" height="931" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1604404235693" />
+    <state x="515" y="174" width="1037" height="737" key="SettingsEditor/72.27.1846.931@72.27.1846.931" timestamp="1604712879078" />
+    <state x="615" y="361" width="672" height="678" key="search.everywhere.popup" timestamp="1604711802381">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="615" y="361" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1604711802381" />
   </component>
 </project>
